@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactsDemoApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="contacts">Contacts</string>
+    <string name="messages">Messages</string>
+    <string name="message">Message</string>
+    <string name="no_messages_yet">No Message(s) yet</string>
+    <string name="send">Send</string>
+    <string name="otp_message_prefix">Hi. Your OTP is: </string>
+    <string name="message_sent">Messages sent successfully</string>
+    <string name="message_failed">Error sending message. Please check your number</string>
+    <string name="no_internet">No internet connection. Please connect to internet first!</string>
+</resources>
